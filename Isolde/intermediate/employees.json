@@ -1,0 +1,84 @@
+let employees = ` [
+    {
+        "Unique ID": "1223456",
+        "First Name": "James",
+        "Last Name": "Black",
+        "Email address": "jamBla@example.com",
+        "Job Title": "CEO",
+        "Salary": "6500"
+    },
+    {
+        "Unique ID": "2223456",
+        "First Name": "Lisa",
+        "Last Name": "Biel",
+        "Email address": "lisa@example.com",
+        "Job Title": "secretary",
+        "Salary": "1500"
+    },
+    {
+        "Unique ID": "3223456",
+        "First Name": "Adrian",
+        "Last Name": "Blueberry",
+        "Email address": "berry@example.com",
+        "Job Title": "teacher",
+        "Salary": "2500"
+    },
+    {
+        "Unique ID": "4223456",
+        "First Name": "Jeff",
+        "Last Name": "Warner",
+        "Email address": "jeff@example.com",
+        "Job Title": "accountant",
+        "Salary": "2500"
+    },
+    {
+        "Unique ID": "5223456",
+        "First Name": "Rose",
+        "Last Name": "White",
+        "Email address": "rosie@example.com",
+        "Job Title": "teacher",
+        "Salary": "3500"
+    },
+    {
+        "Unique ID": "6223456",
+        "First Name": "Maria",
+        "Last Name": "Linsy",
+        "Email address": "maria@example.com",
+        "Job Title": "teacher",
+        "Salary": "3000"
+    },
+    {
+        "Unique ID": "7223456",
+        "First Name": "Lizzy",
+        "Last Name": "Green",
+        "Email address": "greenie@example.com",
+        "Job Title": "assistant",
+        "Salary": "1200"
+    },
+
+    {
+        "Unique ID": "8223456",
+        "First Name": "Jill",
+        "Last Name": "Berger",
+        "Email address": "jill@example.com",
+        "Job Title": "caretaker",
+        "Salary": "1800"
+    },
+    {
+        "Unique ID": "9223456",
+        "First Name": "Jennifer",
+        "Last Name": "Runner",
+        "Email address": "jen@example.com",
+        "Job Title": "lawyer",
+        "Salary": "2200"
+    },
+    {
+        "Unique ID": "0223456",
+        "First Name": "Mark",
+        "Last Name": "Rain",
+        "Email address": "mark@example.com",
+        "Job Title": "cleaner",
+        "Salary": "1600"
+    }
+]`;
+
