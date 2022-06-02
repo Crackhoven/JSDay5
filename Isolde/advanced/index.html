@@ -20,13 +20,13 @@
 
         let bookDiv = document.getElementById("books");
 
-
-
+       
         const printBook = () => {
             for (let i = 0; i < boox.length; i++) {
-                bookDiv.innerHTML += `<img src="" alt=""><br>
+                bookDiv.innerHTML += `<img src="${boox[i].url}" alt="bookcover" style="height: 200px; float: left;margin: 0 10px 10px 0;">
     <h1>${boox[i].title}</h1>
-    <p>${boox[i].author}</p>`
+    <p>${boox[i].author}</p><hr style="clear: both;">`
+    
             }
             return bookDiv
         }

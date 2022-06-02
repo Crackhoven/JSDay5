@@ -1,24 +1,28 @@
 let books = ` [{
     "title": "Javascript for Dummies",
     "author": "Dummy Dumb Dumb",
-    "read": "false"
+    "read": false,
+    "url": "javascript.jpg"
 }, 
 {
-    "title": "Ticket to Britain",
+    "title": "English Code",
     "author": "Joseph Armstrong",
-    "read": "true"
+    "read": true,
+    "url": "english.jpg"
 
 }, 
 {
-    "title": "Buongiorno 2",
+    "title": "Buongiorno",
     "author": "Giuseppe Ceccarelli",
-    "read": "true"
+    "read": true,
+    "url": "buongiorno.jpg"
 
 }, 
 {
-    "title": "Java is an island",
+    "title": "Island of Java",
     "author": "Chris Green",
-    "read": "false"
+    "read": false,
+    "url": "island.jpg"
 
 }]`
 
