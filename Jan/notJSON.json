@@ -1,0 +1,142 @@
+  [{
+
+          "userId": "29893944817",
+
+          "firstName": "Jan",
+
+          "lastName": "Fiedler",
+
+          "emailAddress": "jan-fiedler@hotmail.com",
+
+          "jobTitleName": "Geringverdiener",
+
+          "salary": "250"
+
+      },
+      {
+
+          "userId": "165164123",
+
+          "firstName": "Manuel",
+
+          "lastName": "Widner",
+
+          "emailAddress": "m.widner@gmail.com",
+
+          "jobTitleName": "Freelancer",
+
+          "salary": "a lot"
+
+      }, {
+
+          "userId": "1971561",
+
+          "firstName": "Maria",
+
+          "lastName": "Zakharova",
+
+          "emailAddress": "zak.m@gmail.com",
+
+          "jobTitleName": "JSON Expert",
+
+          "salary": "roughly 12 bucks a year"
+
+      }, {
+
+          "userId": "52889156",
+
+          "firstName": "Isolde",
+
+          "lastName": "Rupprechter",
+
+          "emailAddress": "i.p@gmail.com",
+
+          "jobTitleName": "Web Developer",
+
+          "salary": "2500"
+
+      }, {
+
+          "userId": "11116194",
+
+          "firstName": "Alexander",
+
+          "lastName": "Aumayr",
+
+          "emailAddress": "aa@gmail.com",
+
+          "jobTitleName": "Web Developer",
+
+          "salary": "2500"
+
+      }, {
+
+          "userId": "16514451",
+
+          "firstName": "Hasan",
+
+          "lastName": "Hasan",
+
+          "emailAddress": "hasan@gmail.com",
+
+          "jobTitleName": "Web Developer",
+
+          "salary": "2500"
+
+      }, {
+
+          "userId": "18465414",
+
+          "firstName": "Serri",
+
+          "lastName": "Ghiath",
+
+          "emailAddress": "serri.g@gmail.com",
+
+          "jobTitleName": "Freelancer",
+
+          "salary": "a lot"
+
+      }, {
+
+          "userId": "7521486",
+
+          "firstName": "Kathi",
+
+          "lastName": "Nachname",
+
+          "emailAddress": "katterl@gmail.com",
+
+          "jobTitleName": "Ticketmädl",
+
+          "salary": "900"
+
+      }, {
+
+          "userId": "7524586352",
+
+          "firstName": "Stefan",
+
+          "lastName": "Stefan",
+
+          "emailAddress": "stefan@gmail.com",
+
+          "jobTitleName": "Web Developer",
+
+          "salary": "2500"
+      }, {
+
+          "userId": "7852548214",
+
+          "firstName": "Dominik",
+
+          "lastName": "Nachname",
+
+          "emailAddress": "dom@gmail.com",
+
+          "jobTitleName": "Web Developer",
+
+          "salary": "2500"
+
+      }
+  ]
