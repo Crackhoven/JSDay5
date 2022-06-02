@@ -1,0 +1,25 @@
+let books = ` [{
+    "title": "Javascript for Dummies",
+    "author": "Dummy Dumb Dumb",
+    "read": "false"
+}, 
+{
+    "title": "Ticket to Britain",
+    "author": "Joseph Armstrong",
+    "read": "true"
+
+}, 
+{
+    "title": "Buongiorno 2",
+    "author": "Giuseppe Ceccarelli",
+    "read": "true"
+
+}, 
+{
+    "title": "Java is an island",
+    "author": "Chris Green",
+    "read": "false"
+
+}]`
+
+
