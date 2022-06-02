@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="books"></div>
+
+
+
+    <script src="books.json"></script>
+    <script>
+        let boox = JSON.parse(books);
+        console.log(boox)
+
+        let bookDiv = document.getElementById("books");
+
+
+
+        const printBook = () => {
+            for (let i = 0; i < boox.length; i++) {
+                bookDiv.innerHTML += `<img src="" alt=""><br>
+    <h1>${boox[i].title}</h1>
+    <p>${boox[i].author}</p>`
+            }
+            return bookDiv
+        }
+
+        printBook()
+    </script>
+</body>
+
+</html>
